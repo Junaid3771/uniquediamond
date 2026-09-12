@@ -37,10 +37,10 @@ const values = [
 ]
 
 const team = [
-  { name: "Nasir Bin Aghlaita", role: "Founder & Managing Director", img: "/team/member-1.png" },
-  { name: "Rahul Menon", role: "Head of Operations", img: "/team/member-2.png" },
-  { name: "Sara Khalifa", role: "Project Manager", img: "/team/member-3.png" },
-  { name: "Imran Qureshi", role: "Lead Site Engineer", img: "/team/member-4.png" },
+  { name: "Al hajj Mohammed mustafa – ZM", role: "Founder", img: "/team/member-1.png" },
+  { name: "Nasir Saeed Abdalla Binaghlaita Al Mheiri", role: "Chairman", img: "/team/member-2.png" },
+  { name: "Mohammed Mujahed", role: "Managing Director", img: "/team/member-3.png" },
+  { name: "Al Hajj Mohammed Mansoor", role: "Project Engineer", img: "/team/member-4.png" },
 ]
 
 export default function AboutPage() {
